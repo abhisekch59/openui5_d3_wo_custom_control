@@ -1,0 +1,13 @@
+{
+    "name": "openui5-d3-custom-control",
+    "version": "0.1.0",
+    "description": "D3 charts in OpenUI5 using custom controls",
+    "private": true,
+    "scripts": {
+      "start": "ui5 serve",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "devDependencies": {
+      "@ui5/cli": "^2.14.2"
+    }
+  }
