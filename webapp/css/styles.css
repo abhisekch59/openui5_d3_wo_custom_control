@@ -1,1 +1,16 @@
 /* our custom styles go here */
+
+.donutTooltip {
+    position: absolute;
+    text-align: center;
+    width: 100px;
+    height: auto;
+    padding: 2px;
+    font: 12px sans-serif;
+    background: green;
+    border: 0px;
+    border-radius: 8px;
+    color: white;
+    box-shadow: -3px 3px 15px #888888;
+    opacity: 0;
+  }
